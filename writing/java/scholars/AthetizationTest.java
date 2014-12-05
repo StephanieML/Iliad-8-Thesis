@@ -12,6 +12,11 @@ public class AthetizationTest extends ConcordionTestCase {
         return ("Never looked anything up for urn " + urn);
 
     }
+
+    public String getTokens(String urn) {
+        return ("Never looked anything up for urn " + urn);
+
+    }
 }
 
 
