@@ -1,0 +1,3 @@
+# The Works of Ancient Scholars #
+
+Most scholarly debate centered on the presence of the feminine plural article has focused on its appearance with the ancient scholar Aristarchus, yet the Book 8 scholia contain multiple examples of the feminine plural article with other scholars. Aristophanes is cited in scholion <code concordion:set="#urn">urn:cts:greekLit:tlg5026.msA.hmt:8.321</code> on line 513, which reads <strong concordion:assertEquals="getPhrase(#urn)">αἱ Ἀριστοφάνους</strong>.
