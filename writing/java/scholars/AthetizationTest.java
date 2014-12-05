@@ -10,7 +10,8 @@ public class AthetizationTest extends ConcordionTestCase {
     
     public String getPhrase(String urn) {
         return ("Never looked anything up for urn " + urn);
-    public String getTokens(String urn) {
-        return ("Never looked anything up for urn " + urn);
+
     }
 }
+
+
